@@ -1,0 +1,30 @@
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\Data\Lathe.xml
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\Data\Mill.xml
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\Samples\LATHE.cnc
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\Samples\MILL.CNC
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerApp.exe
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerApp.pdb
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerControl.dll
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerControl.pdb
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.csprojResolveAssemblyReference.cache
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.frmToolLayers.resources
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.frmViewer.resources
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.Properties.Resources.resources
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.csproj.GenerateResource.Cache
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.exe
+C:\Users\Infinity\Desktop\CNC_Viewer_src\CNC_Viewer_src\CSharp\BasicViewer\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.pdb
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.csprojResolveAssemblyReference.cache
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.frmToolLayers.resources
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.Properties.Resources.resources
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.csproj.GenerateResource.Cache
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.exe
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.pdb
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\Data\Lathe.xml
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\Data\Mill.xml
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\Samples\LATHE.cnc
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\Samples\MILL.CNC
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerApp.exe
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerApp.pdb
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerControl.dll
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\bin\Debug\CSharpBasicViewerControl.pdb
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CSharpBasicViewerApp\obj\Debug\CSharpBasicViewerApp.frmViewer.resources

@@ -1,0 +1,87 @@
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Form1.resources
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Main.resources
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Lathe.xml
+C:\Users\Infinity\Desktop\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Mill.xml
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Lathe.xml
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Mill.xml
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Main.resources
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Lathe.xml
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Mill.xml
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Main.resources
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Lathe.xml
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Mill.xml
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Main.resources
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Lathe.xml
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\Data\Mill.xml
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Main.resources
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\Infinity\Desktop\CNCProject_perdarytas\CNCProject_Beta\CNCProject (1)\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\User\Desktop\CNCProject\CNCProject\bin\Debug\Data\Lathe.xml
+C:\Users\User\Desktop\CNCProject\CNCProject\bin\Debug\Data\Mill.xml
+C:\Users\User\Desktop\CNCProject\CNCProject\bin\Debug\CNCProject.exe.config
+C:\Users\User\Desktop\CNCProject\CNCProject\bin\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject\CNCProject\bin\Debug\CNCProject.pdb
+C:\Users\User\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.Main.resources
+C:\Users\User\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.Properties.Resources.resources
+C:\Users\User\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.exe
+C:\Users\User\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.pdb
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\bin\Debug\Data\Lathe.xml
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\bin\Debug\Data\Mill.xml
+C:\Users\Infinity\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.Main.resources
+C:\Users\User\Desktop\CNCProject\CNCProject\obj\Debug\CNCProject.SettingsForm.resources

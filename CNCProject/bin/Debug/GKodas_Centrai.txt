@@ -1,0 +1,161 @@
+G21
+(Einama i sekanti centra)
+G0 Z2
+G0 X0 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X0 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X0 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X0 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X28.65 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X28.65 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X28.65 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X28.65 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X57.3 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X57.3 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X57.3 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X57.3 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X85.95 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X85.95 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X85.95 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X85.95 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X114.6 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X114.6 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X114.6 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X114.6 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X143.25 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X143.25 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X143.25 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X143.25 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X171.9 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X171.9 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X171.9 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X171.9 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X200.55 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X200.55 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X200.55 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X200.55 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X229.2 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X229.2 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X229.2 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X229.2 Y85.95
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X257.85 Y0
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X257.85 Y28.65
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X257.85 Y57.3
+G1 Z-1
+(Einama i sekanti centra)
+G0 Z2
+G0 X257.85 Y85.95
+G1 Z-1
